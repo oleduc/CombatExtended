@@ -14,3 +14,4 @@ _ReSharper*/
 # Ignore RimWorld assemblies 
 Assembly-CSharp.dll 
 UnityEngine.dll 
+
